@@ -1,2 +1,4 @@
 # SanFrancisco_Airport_Passenger_Satisfaction
-A repository that explores the San Francisco Airport Passenger Satisfaction through data interpretation and modelling
+
+## Project Overview
+This project was conducted for San Francisco Airport with the objective of analyzing their provided dataset and developing a predictive model to support future decision-making. The analysis includes descriptive statistics, data visualizations, and predictive modeling using logistic regression.
